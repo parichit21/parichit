@@ -1,0 +1,3 @@
+# parichit
+This project uses gmail api to log in to your gmail accout and seach for the relevent data like subject, body , link ,total count of emails, new link and title exist or not
+############################################################  Happy coding #################################################################################################
