@@ -1,1 +1,1 @@
-automated script in this google is launch and search facebook and then go to signup page and fill all the details mentioned in properties file.
+Created a framework in which google will be opened it will rout to facebook signup page and fill all the details and then create your account
